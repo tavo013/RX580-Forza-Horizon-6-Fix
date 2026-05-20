@@ -10,7 +10,7 @@ Esse Fix não funciona para a versão atual do Driver disponível para a RX580, 
 
 1. Faca o Download da Pasta BIN la vai estar tudo que é necessário nesse fix.
 2. Extraia a DLL para a pasta do jogo
-3. Instale o Driver 23.10.01.14 para a RX580
+3. Instale o [Driver 23.10.01.14](https://www.amd.com/en/resources/support-articles/release-notes/RN-RAD-MS-AGILITY-SDK-2023-6-711.html) para a RX580
 4. Abra as Propriedades do Executável do jogo e ative a Compatibilidade Windows 8 aplique e jogue o jogo.
 
 Pode haver artefatos e bugs durante a gameplay justamente por conta do DirecX12.1 do jogo.
