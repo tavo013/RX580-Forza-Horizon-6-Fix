@@ -3,7 +3,7 @@ FH201 &amp; FH205 Fix
 
 Basicamente o jogo foi lançado para a versão do DirecX12.1 e as placas mais antigas como a RX580 só possuem suporte ao DirectX 12.0
 
-Este e um Fix Experimental para as placas de vídeo RX580 AMD | 8GB VRAM | 2304SP/2048SP
+Este e um Fix Experimental para as placas de vídeo RX580 AMD
 Esse Fix não funciona para a versão atual do Driver disponível para a RX580, pois basicamente o último Driver para esta placa limitam ela.
 
 # Passo a Passo
